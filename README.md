@@ -5,3 +5,7 @@ Every company wants to increase its revenue and profitability. To do that, while
 Customer Churn for a company occurs when a customer decides to stop using the services of that company. In this project, I used the customer data of a telecom sector company based in the US to predict the probability of churn for each of the customer. I have chosen the telecom company data for the churn problem as it is a major area of concern for companies in that sector.
 
 The churn model output can also be used as a warning indicator that some customers are likely to churn. The key drivers that are making the customer more likely to churn can be alleviated and ensure that the customers are actually retained.
+
+
+### Key Drivers of Churn
+![Key drivers](https://github.com/Actionary5/Predict_Churn_for_Telecom/blob/master/download.png)
