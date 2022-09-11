@@ -1,6 +1,6 @@
 # Churn Prediction in Telecom using Machine Learning
 
-![Key drivers](https://images.unsplash.com/photo-1598746095597-b10285aaf183?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80)
+![Key drivers](https://images.unsplash.com/photo-1609969599279-68a966371bc2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80)
 
 
 Every business aims to boost sales and profitability. To achieve this, they want to ensure that their current consumers stick around for a long time in addition to bringing in new ones. Additionally, it's crucial from a strategic standpoint to know in advance whether a certain group of clients intends to discontinue utilising their services (especially recurring ones like internet, cable, phone etc.). Each organisation or corporation does this by developing and monitoring customer metrics, which are then used to calculate the chance of churn.
